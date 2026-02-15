@@ -1,0 +1,764 @@
+[
+  {
+    "itemNumber": "P001-BLK",
+    "styleNumber": "MK-COURT-01",
+    "title": "Classic Court Sneaker",
+    "longName": "Premium Leather Court Sneaker - Black",
+    "color": "Black",
+    "shortDescription": "Timeless court sneaker in premium leather",
+    "quarter": "Q1 2026",
+    "markdown": false,
+    "price": 125.00,
+    "dnsPrice2": 112.50,
+    "dnsPrice3": 106.25,
+    "vendor": "MK",
+    "companyOnHand": 45,
+    "localOnHand": 8,
+    "imageUrl": "https://images.unsplash.com/photo-1549298916-b41d501d3772",
+    "gender": "Unisex",
+    "sizes": [
+      {"id": "s1", "size": "7", "available": true, "quantity": 2},
+      {"id": "s2", "size": "8", "available": true, "quantity": 3},
+      {"id": "s3", "size": "9", "available": true, "quantity": 2},
+      {"id": "s4", "size": "10", "available": true, "quantity": 1},
+      {"id": "s5", "size": "11", "available": false, "quantity": 0}
+    ],
+    "widths": [],
+    "inventory": [
+      {"storeNumber": "01", "size": "8", "quantity": 3, "available": true},
+      {"storeNumber": "02", "size": "9", "quantity": 5, "available": true},
+      {"storeNumber": "03", "size": "10", "quantity": 2, "available": true}
+    ],
+    "relatedProducts": ["P002-WHT", "P003-GRY"]
+  },
+  {
+    "itemNumber": "P002-WHT",
+    "styleNumber": "MK-COURT-02",
+    "title": "Classic Court Sneaker",
+    "longName": "Premium Leather Court Sneaker - White",
+    "color": "White",
+    "shortDescription": "Clean white leather court sneaker",
+    "quarter": "Q1 2026",
+    "markdown": false,
+    "price": 125.00,
+    "dnsPrice2": 112.50,
+    "dnsPrice3": 106.25,
+    "vendor": "MK",
+    "companyOnHand": 52,
+    "localOnHand": 12,
+    "imageUrl": "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb",
+    "gender": "Unisex",
+    "sizes": [
+      {"id": "s1", "size": "7", "available": true, "quantity": 3},
+      {"id": "s2", "size": "8", "available": true, "quantity": 4},
+      {"id": "s3", "size": "9", "available": true, "quantity": 3},
+      {"id": "s4", "size": "10", "available": true, "quantity": 2}
+    ],
+    "widths": [],
+    "inventory": [
+      {"storeNumber": "01", "size": "8", "quantity": 4, "available": true},
+      {"storeNumber": "02", "size": "9", "quantity": 3, "available": true},
+      {"storeNumber": "10", "size": "10", "quantity": 5, "available": true}
+    ],
+    "relatedProducts": ["P001-BLK", "P003-GRY"]
+  },
+  {
+    "itemNumber": "P003-GRY",
+    "styleNumber": "MK-RUN-01",
+    "title": "Performance Running Shoe",
+    "longName": "Lightweight Performance Running Shoe - Grey/Orange",
+    "color": "Grey/Orange",
+    "shortDescription": "Engineered for speed and comfort",
+    "quarter": "Q1 2026",
+    "markdown": false,
+    "price": 140.00,
+    "dnsPrice2": 126.00,
+    "dnsPrice3": 119.00,
+    "vendor": "MK",
+    "companyOnHand": 38,
+    "localOnHand": 7,
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+    "gender": "Unisex",
+    "sizes": [
+      {"id": "s1", "size": "7", "available": true, "quantity": 1},
+      {"id": "s2", "size": "8", "available": true, "quantity": 2},
+      {"id": "s3", "size": "9", "available": true, "quantity": 2},
+      {"id": "s4", "size": "10", "available": true, "quantity": 2}
+    ],
+    "widths": [
+      {"id": "w1", "size": "Standard", "width": "D", "available": true},
+      {"id": "w2", "size": "Wide", "width": "2E", "available": true}
+    ],
+    "inventory": [
+      {"storeNumber": "01", "size": "9", "quantity": 2, "available": true},
+      {"storeNumber": "07", "size": "10", "quantity": 3, "available": true}
+    ],
+    "relatedProducts": ["P004-BLU", "P005-BLK"]
+  },
+  {
+    "itemNumber": "P004-BLU",
+    "styleNumber": "MK-RUN-02",
+    "title": "Performance Running Shoe",
+    "longName": "Lightweight Performance Running Shoe - Blue/White",
+    "color": "Blue/White",
+    "shortDescription": "Premium running performance",
+    "quarter": "Q1 2026",
+    "markdown": false,
+    "price": 140.00,
+    "dnsPrice2": 126.00,
+    "dnsPrice3": 119.00,
+    "vendor": "MK",
+    "companyOnHand": 41,
+    "localOnHand": 9,
+    "imageUrl": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa",
+    "gender": "Men",
+    "sizes": [
+      {"id": "s1", "size": "8", "available": true, "quantity": 2},
+      {"id": "s2", "size": "9", "available": true, "quantity": 3},
+      {"id": "s3", "size": "10", "available": true, "quantity": 2},
+      {"id": "s4", "size": "11", "available": true, "quantity": 2}
+    ],
+    "widths": [],
+    "inventory": [
+      {"storeNumber": "02", "size": "9", "quantity": 4, "available": true},
+      {"storeNumber": "03", "size": "10", "quantity": 3, "available": true}
+    ],
+    "relatedProducts": ["P003-GRY", "P005-BLK"]
+  },
+  {
+    "itemNumber": "P005-BLK",
+    "styleNumber": "MK-BOOT-01",
+    "title": "Chelsea Leather Boot",
+    "longName": "Premium Leather Chelsea Boot - Black",
+    "color": "Black",
+    "shortDescription": "Classic Chelsea boot in full-grain leather",
+    "quarter": "Q4 2025",
+    "markdown": false,
+    "price": 195.00,
+    "dnsPrice2": 175.50,
+    "dnsPrice3": 165.75,
+    "vendor": "MK",
+    "companyOnHand": 29,
+    "localOnHand": 5,
+    "imageUrl": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f",
+    "gender": "Men",
+    "sizes": [
+      {"id": "s1", "size": "8", "available": true, "quantity": 1},
+      {"id": "s2", "size": "9", "available": true, "quantity": 2},
+      {"id": "s3", "size": "10", "available": true, "quantity": 1},
+      {"id": "s4", "size": "11", "available": true, "quantity": 1}
+    ],
+    "widths": [],
+    "inventory": [
+      {"storeNumber": "01", "size": "9", "quantity": 2, "available": true},
+      {"storeNumber": "10", "size": "10", "quantity": 3, "available": true}
+    ],
+    "relatedProducts": ["P006-BRN", "P007-TAN"]
+  },
+  {
+    "itemNumber": "P006-BRN",
+    "styleNumber": "MK-BOOT-02",
+    "title": "Chelsea Leather Boot",
+    "longName": "Premium Leather Chelsea Boot - Brown",
+    "color": "Brown",
+    "shortDescription": "Elegant brown leather Chelsea boot",
+    "quarter": "Q4 2025",
+    "markdown": false,
+    "price": 195.00,
+    "dnsPrice2": 175.50,
+    "dnsPrice3": 165.75,
+    "vendor": "MK",
+    "companyOnHand": 32,
+    "localOnHand": 6,
+    "imageUrl": "https://images.unsplash.com/photo-1611312449412-6cefac5dc3e4",
+    "gender": "Men",
+    "sizes": [
+      {"id": "s1", "size": "8", "available": true, "quantity": 2},
+      {"id": "s2", "size": "9", "available": true, "quantity": 2},
+      {"id": "s3", "size": "10", "available": true, "quantity": 1},
+      {"id": "s4", "size": "11", "available": true, "quantity": 1}
+    ],
+    "widths": [],
+    "inventory": [
+      {"storeNumber": "01", "size": "9", "quantity": 2, "available": true},
+      {"storeNumber": "02", "size": "10", "quantity": 4, "available": true}
+    ],
+    "relatedProducts": ["P005-BLK", "P007-TAN"]
+  },
+  {
+    "itemNumber": "P007-TAN",
+    "styleNumber": "MK-LOAF-01",
+    "title": "Suede Driving Loafer",
+    "longName": "Italian Suede Driving Loafer - Tan",
+    "color": "Tan",
+    "shortDescription": "Hand-crafted suede driving moccasin",
+    "quarter": "Q2 2026",
+    "markdown": false,
+    "price": 165.00,
+    "dnsPrice2": 148.50,
+    "dnsPrice3": 140.25,
+    "vendor": "MK",
+    "companyOnHand": 24,
+    "localOnHand": 4,
+    "imageUrl": "https://images.unsplash.com/photo-1533867617858-e7b97e060509",
+    "gender": "Men",
+    "sizes": [
+      {"id": "s1", "size": "8", "available": true, "quantity": 1},
+      {"id": "s2", "size": "9", "available": true, "quantity": 1},
+      {"id": "s3", "size": "10", "available": true, "quantity": 1},
+      {"id": "s4", "size": "11", "available": true, "quantity": 1}
+    ],
+    "widths": [],
+    "inventory": [
+      {"storeNumber": "07", "size": "9", "quantity": 3, "available": true},
+      {"storeNumber": "10", "size": "10", "quantity": 2, "available": true}
+    ],
+    "relatedProducts": ["P008-NAV", "P009-GRY"]
+  },
+  {
+    "itemNumber": "P008-NAV",
+    "styleNumber": "MK-LOAF-02",
+    "title": "Suede Driving Loafer",
+    "longName": "Italian Suede Driving Loafer - Navy",
+    "color": "Navy",
+    "shortDescription": "Classic navy suede loafer",
+    "quarter": "Q2 2026",
+    "markdown": false,
+    "price": 165.00,
+    "dnsPrice2": 148.50,
+    "dnsPrice3": 140.25,
+    "vendor": "MK",
+    "companyOnHand": 27,
+    "localOnHand": 5,
+    "imageUrl": "https://images.unsplash.com/photo-1614252369475-531eba835eb1",
+    "gender": "Men",
+    "sizes": [
+      {"id": "s1", "size": "8", "available": true, "quantity": 1},
+      {"id": "s2", "size": "9", "available": true, "quantity": 2},
+      {"id": "s3", "size": "10", "available": true, "quantity": 1},
+      {"id": "s4", "size": "11", "available": true, "quantity": 1}
+    ],
+    "widths": [],
+    "inventory": [
+      {"storeNumber": "01", "size": "9", "quantity": 3, "available": true},
+      {"storeNumber": "03", "size": "10", "quantity": 2, "available": true}
+    ],
+    "relatedProducts": ["P007-TAN", "P009-GRY"]
+  },
+  {
+    "itemNumber": "P009-GRY",
+    "styleNumber": "MK-SNEAK-01",
+    "title": "Slip-On Sneaker",
+    "longName": "Canvas Slip-On Sneaker - Grey",
+    "color": "Grey",
+    "shortDescription": "Casual canvas slip-on",
+    "quarter": "Q2 2026",
+    "markdown": false,
+    "price": 85.00,
+    "dnsPrice2": 76.50,
+    "dnsPrice3": 72.25,
+    "vendor": "MK",
+    "companyOnHand": 68,
+    "localOnHand": 15,
+    "imageUrl": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77",
+    "gender": "Unisex",
+    "sizes": [
+      {"id": "s1", "size": "7", "available": true, "quantity": 4},
+      {"id": "s2", "size": "8", "available": true, "quantity": 5},
+      {"id": "s3", "size": "9", "available": true, "quantity": 3},
+      {"id": "s4", "size": "10", "available": true, "quantity": 3}
+    ],
+    "widths": [],
+    "inventory": [
+      {"storeNumber": "01", "size": "8", "quantity": 5, "available": true},
+      {"storeNumber": "02", "size": "9", "quantity": 7, "available": true},
+      {"storeNumber": "03", "size": "10", "quantity": 4, "available": true}
+    ],
+    "relatedProducts": ["P010-BLK", "P011-NAV"]
+  },
+  {
+    "itemNumber": "P010-BLK",
+    "styleNumber": "MK-SNEAK-02",
+    "title": "Slip-On Sneaker",
+    "longName": "Canvas Slip-On Sneaker - Black",
+    "color": "Black",
+    "shortDescription": "Classic black slip-on",
+    "quarter": "Q2 2026",
+    "markdown": false,
+    "price": 85.00,
+    "dnsPrice2": 76.50,
+    "dnsPrice3": 72.25,
+    "vendor": "MK",
+    "companyOnHand": 72,
+    "localOnHand": 16,
+    "imageUrl": "https://images.unsplash.com/photo-1603808033192-082d6919d3e1",
+    "gender": "Unisex",
+    "sizes": [
+      {"id": "s1", "size": "7", "available": true, "quantity": 4},
+      {"id": "s2", "size": "8", "available": true, "quantity": 6},
+      {"id": "s3", "size": "9", "available": true, "quantity": 3},
+      {"id": "s4", "size": "10", "available": true, "quantity": 3}
+    ],
+    "widths": [],
+    "inventory": [
+      {"storeNumber": "01", "size": "8", "quantity": 6, "available": true},
+      {"storeNumber": "02", "size": "9", "quantity": 5, "available": true},
+      {"storeNumber": "10", "size": "10", "quantity": 5, "available": true}
+    ],
+    "relatedProducts": ["P009-GRY", "P011-NAV"]
+  },
+  {
+    "itemNumber": "P011-NAV",
+    "styleNumber": "MK-DECK-01",
+    "title": "Boat Deck Shoe",
+    "longName": "Classic Leather Boat Shoe - Navy",
+    "color": "Navy",
+    "shortDescription": "Traditional boat deck shoe",
+    "quarter": "Q2 2026",
+    "markdown": false,
+    "price": 110.00,
+    "dnsPrice2": 99.00,
+    "dnsPrice3": 93.50,
+    "vendor": "MK",
+    "companyOnHand": 35,
+    "localOnHand": 7,
+    "imageUrl": "https://images.unsplash.com/photo-1603808033176-3e8c98bc1468",
+    "gender": "Men",
+    "sizes": [
+      {"id": "s1", "size": "8", "available": true, "quantity": 2},
+      {"id": "s2", "size": "9", "available": true, "quantity": 2},
+      {"id": "s3", "size": "10", "available": true, "quantity": 2},
+      {"id": "s4", "size": "11", "available": true, "quantity": 1}
+    ],
+    "widths": [],
+    "inventory": [
+      {"storeNumber": "07", "size": "9", "quantity": 3, "available": true},
+      {"storeNumber": "10", "size": "10", "quantity": 4, "available": true}
+    ],
+    "relatedProducts": ["P012-BRN", "P013-TAN"]
+  },
+  {
+    "itemNumber": "P012-BRN",
+    "styleNumber": "MK-DECK-02",
+    "title": "Boat Deck Shoe",
+    "longName": "Classic Leather Boat Shoe - Brown",
+    "color": "Brown",
+    "shortDescription": "Timeless brown deck shoe",
+    "quarter": "Q2 2026",
+    "markdown": false,
+    "price": 110.00,
+    "dnsPrice2": 99.00,
+    "dnsPrice3": 93.50,
+    "vendor": "MK",
+    "companyOnHand": 38,
+    "localOnHand": 8,
+    "imageUrl": "https://images.unsplash.com/photo-1560343090-f0409e92791a",
+    "gender": "Men",
+    "sizes": [
+      {"id": "s1", "size": "8", "available": true, "quantity": 2},
+      {"id": "s2", "size": "9", "available": true, "quantity": 3},
+      {"id": "s3", "size": "10", "available": true, "quantity": 2},
+      {"id": "s4", "size": "11", "available": true, "quantity": 1}
+    ],
+    "widths": [],
+    "inventory": [
+      {"storeNumber": "01", "size": "9", "quantity": 3, "available": true},
+      {"storeNumber": "02", "size": "10", "quantity": 5, "available": true}
+    ],
+    "relatedProducts": ["P011-NAV", "P013-TAN"]
+  },
+  {
+    "itemNumber": "P013-TAN",
+    "styleNumber": "MK-HIKE-01",
+    "title": "Trail Hiking Boot",
+    "longName": "Waterproof Trail Hiking Boot - Tan/Orange",
+    "color": "Tan/Orange",
+    "shortDescription": "Rugged waterproof hiking boot",
+    "quarter": "Q4 2025",
+    "markdown": false,
+    "price": 175.00,
+    "dnsPrice2": 157.50,
+    "dnsPrice3": 148.75,
+    "vendor": "MK",
+    "companyOnHand": 26,
+    "localOnHand": 5,
+    "imageUrl": "https://images.unsplash.com/photo-1520639888713-7851133b1ed0",
+    "gender": "Unisex",
+    "sizes": [
+      {"id": "s1", "size": "7", "available": true, "quantity": 1},
+      {"id": "s2", "size": "8", "available": true, "quantity": 1},
+      {"id": "s3", "size": "9", "available": true, "quantity": 2},
+      {"id": "s4", "size": "10", "available": true, "quantity": 1}
+    ],
+    "widths": [],
+    "inventory": [
+      {"storeNumber": "03", "size": "9", "quantity": 3, "available": true},
+      {"storeNumber": "07", "size": "10", "quantity": 2, "available": true}
+    ],
+    "relatedProducts": ["P014-GRY", "P015-BLK"]
+  },
+  {
+    "itemNumber": "P014-GRY",
+    "styleNumber": "MK-HIKE-02",
+    "title": "Trail Hiking Boot",
+    "longName": "Waterproof Trail Hiking Boot - Grey/Blue",
+    "color": "Grey/Blue",
+    "shortDescription": "All-terrain hiking boot",
+    "quarter": "Q4 2025",
+    "markdown": false,
+    "price": 175.00,
+    "dnsPrice2": 157.50,
+    "dnsPrice3": 148.75,
+    "vendor": "MK",
+    "companyOnHand": 28,
+    "localOnHand": 6,
+    "imageUrl": "https://images.unsplash.com/photo-1605812830455-bd9c01ed6d15",
+    "gender": "Unisex",
+    "sizes": [
+      {"id": "s1", "size": "7", "available": true, "quantity": 1},
+      {"id": "s2", "size": "8", "available": true, "quantity": 2},
+      {"id": "s3", "size": "9", "available": true, "quantity": 2},
+      {"id": "s4", "size": "10", "available": true, "quantity": 1}
+    ],
+    "widths": [],
+    "inventory": [
+      {"storeNumber": "01", "size": "8", "quantity": 2, "available": true},
+      {"storeNumber": "10", "size": "9", "quantity": 4, "available": true}
+    ],
+    "relatedProducts": ["P013-TAN", "P015-BLK"]
+  },
+  {
+    "itemNumber": "P015-BLK",
+    "styleNumber": "MK-SANDAL-01",
+    "title": "Leather Slide Sandal",
+    "longName": "Premium Leather Slide Sandal - Black",
+    "color": "Black",
+    "shortDescription": "Minimalist leather slide",
+    "quarter": "Q2 2026",
+    "markdown": false,
+    "price": 75.00,
+    "dnsPrice2": 67.50,
+    "dnsPrice3": 63.75,
+    "vendor": "MK",
+    "companyOnHand": 55,
+    "localOnHand": 12,
+    "imageUrl": "https://images.unsplash.com/photo-1603487742131-4160ec999306",
+    "gender": "Unisex",
+    "sizes": [
+      {"id": "s1", "size": "7", "available": true, "quantity": 3},
+      {"id": "s2", "size": "8", "available": true, "quantity": 4},
+      {"id": "s3", "size": "9", "available": true, "quantity": 3},
+      {"id": "s4", "size": "10", "available": true, "quantity": 2}
+    ],
+    "widths": [],
+    "inventory": [
+      {"storeNumber": "01", "size": "8", "quantity": 4, "available": true},
+      {"storeNumber": "02", "size": "9", "quantity": 6, "available": true},
+      {"storeNumber": "03", "size": "10", "quantity": 3, "available": true}
+    ],
+    "relatedProducts": ["P016-BRN", "P017-WHT"]
+  },
+  {
+    "itemNumber": "P016-BRN",
+    "styleNumber": "MK-SANDAL-02",
+    "title": "Leather Slide Sandal",
+    "longName": "Premium Leather Slide Sandal - Brown",
+    "color": "Brown",
+    "shortDescription": "Comfortable leather slide",
+    "quarter": "Q2 2026",
+    "markdown": false,
+    "price": 75.00,
+    "dnsPrice2": 67.50,
+    "dnsPrice3": 63.75,
+    "vendor": "MK",
+    "companyOnHand": 48,
+    "localOnHand": 10,
+    "imageUrl": "https://images.unsplash.com/photo-1603808033587-5c139e1a1a32",
+    "gender": "Unisex",
+    "sizes": [
+      {"id": "s1", "size": "7", "available": true, "quantity": 2},
+      {"id": "s2", "size": "8", "available": true, "quantity": 3},
+      {"id": "s3", "size": "9", "available": true, "quantity": 3},
+      {"id": "s4", "size": "10", "available": true, "quantity": 2}
+    ],
+    "widths": [],
+    "inventory": [
+      {"storeNumber": "07", "size": "8", "quantity": 4, "available": true},
+      {"storeNumber": "10", "size": "9", "quantity": 5, "available": true}
+    ],
+    "relatedProducts": ["P015-BLK", "P017-WHT"]
+  },
+  {
+    "itemNumber": "P017-WHT",
+    "styleNumber": "MK-TRAIN-01",
+    "title": "Cross-Training Shoe",
+    "longName": "Performance Cross-Training Shoe - White/Red",
+    "color": "White/Red",
+    "shortDescription": "Versatile training shoe",
+    "quarter": "Q1 2026",
+    "markdown": false,
+    "price": 120.00,
+    "dnsPrice2": 108.00,
+    "dnsPrice3": 102.00,
+    "vendor": "MK",
+    "companyOnHand": 44,
+    "localOnHand": 9,
+    "imageUrl": "https://images.unsplash.com/photo-1539185441755-769473a23570",
+    "gender": "Unisex",
+    "sizes": [
+      {"id": "s1", "size": "7", "available": true, "quantity": 2},
+      {"id": "s2", "size": "8", "available": true, "quantity": 3},
+      {"id": "s3", "size": "9", "available": true, "quantity": 2},
+      {"id": "s4", "size": "10", "available": true, "quantity": 2}
+    ],
+    "widths": [],
+    "inventory": [
+      {"storeNumber": "01", "size": "8", "quantity": 3, "available": true},
+      {"storeNumber": "02", "size": "9", "quantity": 4, "available": true}
+    ],
+    "relatedProducts": ["P018-BLK", "P019-BLU"]
+  },
+  {
+    "itemNumber": "P018-BLK",
+    "styleNumber": "MK-TRAIN-02",
+    "title": "Cross-Training Shoe",
+    "longName": "Performance Cross-Training Shoe - Black/Yellow",
+    "color": "Black/Yellow",
+    "shortDescription": "High-performance training",
+    "quarter": "Q1 2026",
+    "markdown": false,
+    "price": 120.00,
+    "dnsPrice2": 108.00,
+    "dnsPrice3": 102.00,
+    "vendor": "MK",
+    "companyOnHand": 40,
+    "localOnHand": 8,
+    "imageUrl": "https://images.unsplash.com/photo-1562183241-b937e95585b6",
+    "gender": "Unisex",
+    "sizes": [
+      {"id": "s1", "size": "7", "available": true, "quantity": 2},
+      {"id": "s2", "size": "8", "available": true, "quantity": 2},
+      {"id": "s3", "size": "9", "available": true, "quantity": 2},
+      {"id": "s4", "size": "10", "available": true, "quantity": 2}
+    ],
+    "widths": [],
+    "inventory": [
+      {"storeNumber": "03", "size": "8", "quantity": 3, "available": true},
+      {"storeNumber": "10", "size": "9", "quantity": 5, "available": true}
+    ],
+    "relatedProducts": ["P017-WHT", "P019-BLU"]
+  },
+  {
+    "itemNumber": "P019-BLU",
+    "styleNumber": "MK-BASKET-01",
+    "title": "Basketball Sneaker",
+    "longName": "High-Top Basketball Sneaker - Blue/White",
+    "color": "Blue/White",
+    "shortDescription": "Classic basketball high-top",
+    "quarter": "Q4 2025",
+    "markdown": true,
+    "price": 150.00,
+    "dnsPrice2": 120.00,
+    "dnsPrice3": 105.00,
+    "vendor": "MK",
+    "companyOnHand": 22,
+    "localOnHand": 4,
+    "imageUrl": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+    "gender": "Unisex",
+    "sizes": [
+      {"id": "s1", "size": "8", "available": true, "quantity": 1},
+      {"id": "s2", "size": "9", "available": true, "quantity": 1},
+      {"id": "s3", "size": "10", "available": true, "quantity": 1},
+      {"id": "s4", "size": "11", "available": true, "quantity": 1}
+    ],
+    "widths": [],
+    "inventory": [
+      {"storeNumber": "01", "size": "9", "quantity": 2, "available": true},
+      {"storeNumber": "02", "size": "10", "quantity": 3, "available": true}
+    ],
+    "relatedProducts": ["P020-RED", "P021-BLK"]
+  },
+  {
+    "itemNumber": "P020-RED",
+    "styleNumber": "MK-BASKET-02",
+    "title": "Basketball Sneaker",
+    "longName": "High-Top Basketball Sneaker - Red/Black",
+    "color": "Red/Black",
+    "shortDescription": "Performance basketball shoe",
+    "quarter": "Q4 2025",
+    "markdown": true,
+    "price": 150.00,
+    "dnsPrice2": 120.00,
+    "dnsPrice3": 105.00,
+    "vendor": "MK",
+    "companyOnHand": 19,
+    "localOnHand": 3,
+    "imageUrl": "https://images.unsplash.com/photo-1543508282-6319a3e2621f",
+    "gender": "Unisex",
+    "sizes": [
+      {"id": "s1", "size": "8", "available": true, "quantity": 1},
+      {"id": "s2", "size": "9", "available": false, "quantity": 0},
+      {"id": "s3", "size": "10", "available": true, "quantity": 1},
+      {"id": "s4", "size": "11", "available": true, "quantity": 1}
+    ],
+    "widths": [],
+    "inventory": [
+      {"storeNumber": "07", "size": "10", "quantity": 2, "available": true},
+      {"storeNumber": "10", "size": "11", "quantity": 2, "available": true}
+    ],
+    "relatedProducts": ["P019-BLU", "P021-BLK"]
+  },
+  {
+    "itemNumber": "P021-BLK",
+    "styleNumber": "MK-DRESS-01",
+    "title": "Oxford Dress Shoe",
+    "longName": "Classic Leather Oxford - Black",
+    "color": "Black",
+    "shortDescription": "Formal leather oxford",
+    "quarter": "Q3 2025",
+    "markdown": false,
+    "price": 180.00,
+    "dnsPrice2": 162.00,
+    "dnsPrice3": 153.00,
+    "vendor": "MK",
+    "companyOnHand": 31,
+    "localOnHand": 6,
+    "imageUrl": "https://images.unsplash.com/photo-1614252369475-531eba835eb1",
+    "gender": "Men",
+    "sizes": [
+      {"id": "s1", "size": "8", "available": true, "quantity": 2},
+      {"id": "s2", "size": "9", "available": true, "quantity": 2},
+      {"id": "s3", "size": "10", "available": true, "quantity": 1},
+      {"id": "s4", "size": "11", "available": true, "quantity": 1}
+    ],
+    "widths": [],
+    "inventory": [
+      {"storeNumber": "01", "size": "9", "quantity": 3, "available": true},
+      {"storeNumber": "02", "size": "10", "quantity": 3, "available": true}
+    ],
+    "relatedProducts": ["P022-BRN", "P023-TAN"]
+  },
+  {
+    "itemNumber": "P022-BRN",
+    "styleNumber": "MK-DRESS-02",
+    "title": "Oxford Dress Shoe",
+    "longName": "Classic Leather Oxford - Brown",
+    "color": "Brown",
+    "shortDescription": "Elegant brown oxford",
+    "quarter": "Q3 2025",
+    "markdown": false,
+    "price": 180.00,
+    "dnsPrice2": 162.00,
+    "dnsPrice3": 153.00,
+    "vendor": "MK",
+    "companyOnHand": 28,
+    "localOnHand": 5,
+    "imageUrl": "https://images.unsplash.com/photo-1533867617858-e7b97e060509",
+    "gender": "Men",
+    "sizes": [
+      {"id": "s1", "size": "8", "available": true, "quantity": 1},
+      {"id": "s2", "size": "9", "available": true, "quantity": 2},
+      {"id": "s3", "size": "10", "available": true, "quantity": 1},
+      {"id": "s4", "size": "11", "available": true, "quantity": 1}
+    ],
+    "widths": [],
+    "inventory": [
+      {"storeNumber": "01", "size": "9", "quantity": 2, "available": true},
+      {"storeNumber": "07", "size": "10", "quantity": 3, "available": true}
+    ],
+    "relatedProducts": ["P021-BLK", "P023-TAN"]
+  },
+  {
+    "itemNumber": "P023-TAN",
+    "styleNumber": "MK-MONK-01",
+    "title": "Monk Strap Shoe",
+    "longName": "Double Monk Strap Leather Shoe - Tan",
+    "color": "Tan",
+    "shortDescription": "Sophisticated monk strap",
+    "quarter": "Q3 2025",
+    "markdown": false,
+    "price": 190.00,
+    "dnsPrice2": 171.00,
+    "dnsPrice3": 161.50,
+    "vendor": "MK",
+    "companyOnHand": 23,
+    "localOnHand": 4,
+    "imageUrl": "https://images.unsplash.com/photo-1478186014654-7f4f68e43641",
+    "gender": "Men",
+    "sizes": [
+      {"id": "s1", "size": "8", "available": true, "quantity": 1},
+      {"id": "s2", "size": "9", "available": true, "quantity": 1},
+      {"id": "s3", "size": "10", "available": true, "quantity": 1},
+      {"id": "s4", "size": "11", "available": true, "quantity": 1}
+    ],
+    "widths": [],
+    "inventory": [
+      {"storeNumber": "01", "size": "9", "quantity": 2, "available": true},
+      {"storeNumber": "10", "size": "10", "quantity": 2, "available": true}
+    ],
+    "relatedProducts": ["P024-BLK", "P025-BRN"]
+  },
+  {
+    "itemNumber": "P024-BLK",
+    "styleNumber": "MK-MONK-02",
+    "title": "Monk Strap Shoe",
+    "longName": "Double Monk Strap Leather Shoe - Black",
+    "color": "Black",
+    "shortDescription": "Classic black monk strap",
+    "quarter": "Q3 2025",
+    "markdown": false,
+    "price": 190.00,
+    "dnsPrice2": 171.00,
+    "dnsPrice3": 161.50,
+    "vendor": "MK",
+    "companyOnHand": 25,
+    "localOnHand": 5,
+    "imageUrl": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2",
+    "gender": "Men",
+    "sizes": [
+      {"id": "s1", "size": "8", "available": true, "quantity": 1},
+      {"id": "s2", "size": "9", "available": true, "quantity": 2},
+      {"id": "s3", "size": "10", "available": true, "quantity": 1},
+      {"id": "s4", "size": "11", "available": true, "quantity": 1}
+    ],
+    "widths": [],
+    "inventory": [
+      {"storeNumber": "02", "size": "9", "quantity": 3, "available": true},
+      {"storeNumber": "03", "size": "10", "quantity": 2, "available": true}
+    ],
+    "relatedProducts": ["P023-TAN", "P025-BRN"]
+  },
+  {
+    "itemNumber": "P025-BRN",
+    "styleNumber": "MK-FLIP-01",
+    "title": "Leather Flip Flop",
+    "longName": "Premium Leather Flip Flop - Brown",
+    "color": "Brown",
+    "shortDescription": "Comfortable leather flip flop",
+    "quarter": "Q2 2026",
+    "markdown": false,
+    "price": 65.00,
+    "dnsPrice2": 58.50,
+    "dnsPrice3": 55.25,
+    "vendor": "MK",
+    "companyOnHand": 85,
+    "localOnHand": 18,
+    "imageUrl": "https://images.unsplash.com/photo-1560343090-f0409e92791a",
+    "gender": "Unisex",
+    "sizes": [
+      {"id": "s1", "size": "7", "available": true, "quantity": 5},
+      {"id": "s2", "size": "8", "available": true, "quantity": 6},
+      {"id": "s3", "size": "9", "available": true, "quantity": 4},
+      {"id": "s4", "size": "10", "available": true, "quantity": 3}
+    ],
+    "widths": [],
+    "inventory": [
+      {"storeNumber": "01", "size": "8", "quantity": 6, "available": true},
+      {"storeNumber": "02", "size": "9", "quantity": 8, "available": true},
+      {"storeNumber": "03", "size": "10", "quantity": 5, "available": true},
+      {"storeNumber": "07", "size": "8", "quantity": 7, "available": true},
+      {"storeNumber": "10", "size": "9", "quantity": 9, "available": true}
+    ],
+    "relatedProducts": ["P015-BLK", "P016-BRN"]
+  }
+]

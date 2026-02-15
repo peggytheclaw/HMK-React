@@ -1,0 +1,52 @@
+[
+  {
+    "storeNumber": "01",
+    "name": "Downtown San Francisco",
+    "address": "123 Market Street",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94102",
+    "phone": "(415) 555-0101",
+    "manager": "Sarah Johnson"
+  },
+  {
+    "storeNumber": "02",
+    "name": "Union Square",
+    "address": "456 Geary Boulevard",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94108",
+    "phone": "(415) 555-0102",
+    "manager": "Michael Chen"
+  },
+  {
+    "storeNumber": "03",
+    "name": "Berkeley Campus",
+    "address": "789 Telegraph Avenue",
+    "city": "Berkeley",
+    "state": "CA",
+    "zip": "94704",
+    "phone": "(510) 555-0103",
+    "manager": "Jessica Martinez"
+  },
+  {
+    "storeNumber": "07",
+    "name": "Palo Alto",
+    "address": "321 University Avenue",
+    "city": "Palo Alto",
+    "state": "CA",
+    "zip": "94301",
+    "phone": "(650) 555-0107",
+    "manager": "David Kim"
+  },
+  {
+    "storeNumber": "10",
+    "name": "San Jose Center",
+    "address": "567 Santana Row",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95128",
+    "phone": "(408) 555-0110",
+    "manager": "Amanda Rodriguez"
+  }
+]

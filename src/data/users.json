@@ -1,0 +1,62 @@
+[
+  {
+    "id": "u001",
+    "username": "sjohnson",
+    "firstName": "Sarah",
+    "lastName": "Johnson",
+    "email": "sarah.johnson@hmk.com",
+    "role": "manager",
+    "storeNumber": "01",
+    "avatar": "https://i.pravatar.cc/150?img=1"
+  },
+  {
+    "id": "u002",
+    "username": "mchen",
+    "firstName": "Michael",
+    "lastName": "Chen",
+    "email": "michael.chen@hmk.com",
+    "role": "manager",
+    "storeNumber": "02",
+    "avatar": "https://i.pravatar.cc/150?img=33"
+  },
+  {
+    "id": "u003",
+    "username": "jmartinez",
+    "firstName": "Jessica",
+    "lastName": "Martinez",
+    "email": "jessica.martinez@hmk.com",
+    "role": "manager",
+    "storeNumber": "03",
+    "avatar": "https://i.pravatar.cc/150?img=5"
+  },
+  {
+    "id": "u004",
+    "username": "emiller",
+    "firstName": "Emily",
+    "lastName": "Miller",
+    "email": "emily.miller@hmk.com",
+    "role": "employee",
+    "storeNumber": "01",
+    "avatar": "https://i.pravatar.cc/150?img=9"
+  },
+  {
+    "id": "u005",
+    "username": "jwilson",
+    "firstName": "James",
+    "lastName": "Wilson",
+    "email": "james.wilson@hmk.com",
+    "role": "employee",
+    "storeNumber": "02",
+    "avatar": "https://i.pravatar.cc/150?img=12"
+  },
+  {
+    "id": "u006",
+    "username": "admin",
+    "firstName": "Admin",
+    "lastName": "User",
+    "email": "admin@hmk.com",
+    "role": "admin",
+    "storeNumber": "01",
+    "avatar": "https://i.pravatar.cc/150?img=68"
+  }
+]
