@@ -1,12 +1,18 @@
-# HMK Retail Management System - React Edition
+# Retail Shoe Management System
 
-A modern, full-featured retail inventory and order management system built with React, TypeScript, and Tailwind CSS. This is a complete rewrite of the original Backbone.js/Marionette.js application showcasing modern web development practices.
+A modern, full-featured retail inventory and order management system built with React, TypeScript, and Tailwind CSS. This portfolio demo showcases modern web development practices and enterprise-grade application architecture.
 
-![HMK Retail](https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=1200&h=400&fit=crop)
+![Retail Shoe Management](https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=1200&h=400&fit=crop)
 
 ## 🎯 Overview
 
-HMK Retail is a comprehensive point-of-sale and inventory management system designed for multi-store retail operations. It handles product catalogs, inter-store orders, inventory tracking, and employee management with a clean, responsive interface.
+This is a comprehensive point-of-sale and inventory management system designed for multi-store retail shoe operations. It handles product catalogs, inter-store orders, inventory tracking, and employee management with a clean, responsive interface.
+
+**Live Demo:** https://troycosentino.com/portfolio/retailshoeapp/
+
+**Demo Credentials:**
+- Username: `admin` (or `sjohnson`, `mchen`, `jmartinez`)
+- Password: `demo`
 
 ## ✨ Features
 

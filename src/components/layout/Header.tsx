@@ -22,7 +22,7 @@ export default function Header() {
           
           <div>
             <h1 className="text-2xl font-bold text-gray-900 dark:text-white">
-              HMK Retail
+              Retail Shoe Management
             </h1>
             <p className="text-sm text-gray-500 dark:text-gray-400">
               Inventory Management System

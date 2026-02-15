@@ -1,4 +1,4 @@
-// Core data types for HMK Retail Management System
+// Core data types for Retail Shoe Management System
 
 export interface Product {
   itemNumber: string;
