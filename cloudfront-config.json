@@ -1,0 +1,90 @@
+{
+  "CallerReference": "hmk-react-deployment-1739651400",
+  "Aliases": {
+    "Quantity": 1,
+    "Items": ["hmk.troycosentino.com"]
+  },
+  "DefaultRootObject": "index.html",
+  "Origins": {
+    "Quantity": 1,
+    "Items": [
+      {
+        "Id": "S3-hmk-react",
+        "DomainName": "hmk-troycosentino-com.s3-website-us-west-2.amazonaws.com",
+        "CustomOriginConfig": {
+          "HTTPPort": 80,
+          "HTTPSPort": 443,
+          "OriginProtocolPolicy": "http-only",
+          "OriginSslProtocols": {
+            "Quantity": 3,
+            "Items": ["TLSv1", "TLSv1.1", "TLSv1.2"]
+          },
+          "OriginReadTimeout": 30,
+          "OriginKeepaliveTimeout": 5
+        }
+      }
+    ]
+  },
+  "DefaultCacheBehavior": {
+    "TargetOriginId": "S3-hmk-react",
+    "ViewerProtocolPolicy": "redirect-to-https",
+    "AllowedMethods": {
+      "Quantity": 2,
+      "Items": ["GET", "HEAD"],
+      "CachedMethods": {
+        "Quantity": 2,
+        "Items": ["GET", "HEAD"]
+      }
+    },
+    "Compress": true,
+    "ForwardedValues": {
+      "QueryString": false,
+      "Cookies": {
+        "Forward": "none"
+      },
+      "Headers": {
+        "Quantity": 0
+      }
+    },
+    "MinTTL": 0,
+    "DefaultTTL": 86400,
+    "MaxTTL": 31536000,
+    "TrustedSigners": {
+      "Enabled": false,
+      "Quantity": 0
+    },
+    "TrustedKeyGroups": {
+      "Enabled": false,
+      "Quantity": 0
+    },
+    "SmoothStreaming": false
+  },
+  "CustomErrorResponses": {
+    "Quantity": 2,
+    "Items": [
+      {
+        "ErrorCode": 404,
+        "ResponsePagePath": "/index.html",
+        "ResponseCode": "200",
+        "ErrorCachingMinTTL": 300
+      },
+      {
+        "ErrorCode": 403,
+        "ResponsePagePath": "/index.html",
+        "ResponseCode": "200",
+        "ErrorCachingMinTTL": 300
+      }
+    ]
+  },
+  "Comment": "HMK React Application",
+  "Enabled": true,
+  "ViewerCertificate": {
+    "ACMCertificateArn": "arn:aws:acm:us-east-1:541894706864:certificate/9214db68-a5e2-4a75-8197-f2c6c64f5ad4",
+    "SSLSupportMethod": "sni-only",
+    "MinimumProtocolVersion": "TLSv1.2_2021",
+    "Certificate": "arn:aws:acm:us-east-1:541894706864:certificate/9214db68-a5e2-4a75-8197-f2c6c64f5ad4",
+    "CertificateSource": "acm"
+  },
+  "PriceClass": "PriceClass_All",
+  "HttpVersion": "http2"
+}

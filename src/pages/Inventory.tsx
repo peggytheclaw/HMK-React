@@ -1,5 +1,5 @@
 import { useState, useMemo } from 'react';
-import { Search, Package } from 'lucide-react';
+import { Search } from 'lucide-react';
 import { Card, CardContent, CardHeader } from '@/components/ui/Card';
 import productsData from '@/data/products.json';
 import storesData from '@/data/stores.json';

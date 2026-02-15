@@ -1,7 +1,7 @@
 import { Card, CardContent, CardHeader } from '@/components/ui/Card';
 import { useAuthStore } from '@/store/authStore';
 import { useStoreStore } from '@/store/storeStore';
-import { User, Store, Mail, Phone } from 'lucide-react';
+import { Store, Mail, Phone } from 'lucide-react';
 import storesData from '@/data/stores.json';
 
 export default function Profile() {

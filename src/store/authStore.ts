@@ -21,7 +21,7 @@ export const useAuthStore = create<AuthState>((set) => ({
     const user = usersData.find(u => u.username === username);
     
     if (user && password === 'demo') { // Demo password
-      set({ user, isAuthenticated: true });
+      set({ user: user as User, isAuthenticated: true });
       return true;
     }
     

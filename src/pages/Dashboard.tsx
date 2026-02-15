@@ -1,6 +1,6 @@
 import { useMemo } from 'react';
 import { Link } from 'react-router-dom';
-import { Package, ShoppingCart, CheckCircle, XCircle, TrendingUp, ArrowRight } from 'lucide-react';
+import { Package, ShoppingCart, CheckCircle, TrendingUp, ArrowRight } from 'lucide-react';
 import { Card, CardContent, CardHeader } from '@/components/ui/Card';
 import Button from '@/components/ui/Button';
 import productsData from '@/data/products.json';
