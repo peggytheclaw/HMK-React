@@ -37,7 +37,7 @@ function App() {
 
   if (!isAuthenticated) {
     return (
-      <BrowserRouter>
+      <BrowserRouter basename="/portfolio/retailshoeapp">
         <Routes>
           <Route path="/login" element={<Login />} />
           <Route path="*" element={<Navigate to="/login" replace />} />
@@ -47,7 +47,7 @@ function App() {
   }
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/portfolio/retailshoeapp">
       <Layout>
         <Routes>
           <Route path="/" element={<Dashboard />} />
